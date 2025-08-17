@@ -1,6 +1,6 @@
 # Hi, I'm Vijaykumar 👋  
 
-🌟 **UI / Frontend Developer** with 6+ years of experience in designing and developing web applications.  
+🌟 **UI / Frontend Developer** with 8+ years of experience in designing and developing web applications.  
 I specialize in building **responsive, clean, and modern user interfaces** using **HTML, CSS, JavaScript, jQuery, and Bootstrap**.  
 
 🔹 Currently upskilling in **React.js** to develop scalable and dynamic frontends.  
